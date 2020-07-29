@@ -1,5 +1,3 @@
-
-
 # Gets input
 story = input("Text: ")
 

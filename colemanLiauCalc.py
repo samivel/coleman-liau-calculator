@@ -1,7 +1,7 @@
-from cs50 import get_string
+
 
 # Gets input
-story = get_string("Text: ")
+story = input("Text: ")
 
 # Finds number of letters in input
 letters = 0
